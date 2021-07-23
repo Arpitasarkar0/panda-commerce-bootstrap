@@ -1,0 +1,33 @@
+.nav-background-color{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+}
+.header-font{
+    font-weight: bold;
+    font-size: 56px; 
+}
+.background-colour{
+    background-color:#FEEAE9
+    ;
+}
+.btn-color{
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+.catagories-bg-color1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.catagories-bg-color2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.catagories-bg-color3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+h2{
+    font-weight: 600;
+font-size: 36px;
+}
+h3{
+    font-weight: 500;
+font-size: 24px;
+}
